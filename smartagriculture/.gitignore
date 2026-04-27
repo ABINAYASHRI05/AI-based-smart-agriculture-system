@@ -1,0 +1,13 @@
+application.properties
+application2.properties
+*.properties
+target/
+.env
+.env.local
+*.class
+*.jar
+*.log
+.settings/
+.classpath
+.project
+.factorypath
