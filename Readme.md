@@ -11,7 +11,7 @@
 
 **AI-powered full-stack web application helping Tamil Nadu farmers with crop recommendations, disease detection, market prices, and government subsidies.**
 
-[🌐 Live Demo](#live-demo) • [✨ Features](#features) • [🛠️ Tech Stack](#tech-stack) • [🚀 Run Locally](#run-locally) • [👩‍💻 Developer](#developer)
+• [✨ Features](#features) • [🛠️ Tech Stack](#tech-stack) • [🚀 Run Locally](#run-locally) • [👩‍💻 Developer](#developer)
 
 </div>
 
@@ -19,8 +19,10 @@
 
 
 ## 📸 Screenshots
+![Uploading image.png…]()
+![Uploading image.png…]()
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9533b41f-fe0a-4c3c-8742-065f6a0923dc" />
 
-> Add your screenshots here after deployment
 
 ---
 
