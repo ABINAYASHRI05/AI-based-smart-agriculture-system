@@ -17,15 +17,6 @@
 
 ---
 
-## 🖥️ Live Demo
-
-| Service | URL |
-|---------|-----|
-| 🌐 Frontend | https://smart-agriculture.vercel.app |
-| ⚙️ Backend API | https://smart-agriculture-api.onrender.com |
-| 🤖 ML Service | https://smart-agriculture-ml.onrender.com |
-
----
 
 ## 📸 Screenshots
 
