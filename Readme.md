@@ -24,7 +24,9 @@
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9533b41f-fe0a-4c3c-8742-065f6a0923dc" />
 
 
----
+---Live Demo
+
+https://ai-based-smart-agriculture-system-qpvr-74mkdgh1t.vercel.app
 
 ## ✨ Features
 
